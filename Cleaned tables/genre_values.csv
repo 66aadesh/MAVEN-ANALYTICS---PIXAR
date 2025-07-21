@@ -1,40 +1,40 @@
-genre_value_id,value
-0,Adventure
-1,Animation
-2,Comedy
-3,Buddy Comedy
-4,Computer Animation
-5,Fantasy
-6,Supernatural Fantasy
-7,Urban Adventure
-8,Animal Adventure
-9,Quest
-10,Sea Adventure
-11,Action
-12,Superhero
-13,Motorsport
-14,Sport
-15,Family
-16,Adventure Epic
-17,Artificial Intelligence
-18,Dystopian Sci-Fi
-19,Sci-Fi
-20,Space Sci-Fi
-21,Coming-of-Age
-22,Globetrotting Adventure
-23,Car Action
-24,Crime
-25,Spy
-26,Fairy Tale
-27,Sword & Sorcery
-28,Teen Adventure
-29,Dinosaur Adventure
-30,Drama
-31,Music
-32,Mystery
-33,Road Trip
-34,Fantasy Epic
-35,Teen Comedy
-36,Time Travel
-37,Romance
-38,Teen Drama
+value,category,category_id,genre_value_id
+Adventure,Genre,0,0
+Animation,Genre,0,1
+Comedy,Genre,0,2
+Buddy Comedy,Subgenre,1,3
+Computer Animation,Subgenre,1,4
+Fantasy,Subgenre,1,5
+Supernatural Fantasy,Subgenre,1,6
+Urban Adventure,Subgenre,1,7
+Animal Adventure,Subgenre,1,8
+Quest,Subgenre,1,9
+Sea Adventure,Subgenre,1,10
+Action,Genre,0,11
+Superhero,Subgenre,1,12
+Motorsport,Subgenre,1,13
+Sport,Subgenre,1,14
+Family,Genre,0,15
+Adventure Epic,Subgenre,1,16
+Artificial Intelligence,Subgenre,1,17
+Dystopian Sci-Fi,Subgenre,1,18
+Sci-Fi,Subgenre,1,19
+Space Sci-Fi,Subgenre,1,20
+Coming-of-Age,Subgenre,1,21
+Globetrotting Adventure,Subgenre,1,22
+Car Action,Subgenre,1,23
+Crime,Subgenre,1,24
+Spy,Subgenre,1,25
+Fairy Tale,Subgenre,1,26
+Sword & Sorcery,Subgenre,1,27
+Teen Adventure,Subgenre,1,28
+Dinosaur Adventure,Subgenre,1,29
+Drama,Genre,0,30
+Music,Subgenre,1,31
+Mystery,Subgenre,1,32
+Road Trip,Subgenre,1,33
+Fantasy Epic,Subgenre,1,34
+Teen Comedy,Subgenre,1,35
+Time Travel,Subgenre,1,36
+Romance,Subgenre,1,37
+Teen Drama,Subgenre,1,38
