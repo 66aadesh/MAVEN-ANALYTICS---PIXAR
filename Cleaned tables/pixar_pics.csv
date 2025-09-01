@@ -1,8 +1,8 @@
 number,film,url
-1,Toy Story,C:\Users\Aditya Dixit\Downloads\pixar movies wallpaper\Toy_Story.jpg
-2,A Bug's Life,https://drive.google.com/file/d/1uEWGHIhmoWvQR9ECCHDmeZftVwqFzW2Y/view?usp=drive_link
-3,Toy Story 2,https://en.wikipedia.org/wiki/File:Toy_Story_2.jpg
-4,"Monsters, Inc.",https://en.wikipedia.org/wiki/File:Monsters_Inc.JPG
+1,Toy Story,https://github.com/66aadesh/MAVEN-ANALYTICS---PIXAR/blob/main/pixar%20movies%20wallpaper/Toy_Story.jpg?raw=true
+2,A Bug's Life,https://raw.githubusercontent.com/66aadesh/MAVEN-ANALYTICS---PIXAR/refs/heads/main/pixar%20movies%20wallpaper/A_Bug's_Life.jpg
+3,Toy Story 2,https://github.com/66aadesh/MAVEN-ANALYTICS---PIXAR/blob/main/pixar%20movies%20wallpaper/Toy_Story_2.jpg?raw=true
+4,"Monsters, Inc.",https://github.com/66aadesh/MAVEN-ANALYTICS---PIXAR/blob/main/pixar%20movies%20wallpaper/Monsters_Inc.jpeg?raw=true
 5,Finding Nemo,
 7,Cars,
 8,Ratatouille,
