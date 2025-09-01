@@ -78,8 +78,9 @@ The goal of this project was to practice **data cleaning, transformation, and vi
 ## 📧 Contact
 If you’d like to connect, discuss data storytelling, or share feedback:  
 - **Author:** Aditya Dixit  
-- **GitHub:** [Your GitHub Profile Link]  
-- **LinkedIn:** [Your LinkedIn Profile Link]  
+- **GitHub:** https://github.com/66aadesh 
+- **LinkedIn:** https://www.linkedin.com/in/adityadixit97/
 
 ---
 ✨ *"Data tells stories — this one celebrates the magic of Pixar."*  
+
